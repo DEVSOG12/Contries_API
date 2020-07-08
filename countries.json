@@ -1,0 +1,21 @@
+{
+    "countries" :[
+        
+            {
+                "name": "Nigeria",
+                "id": "NG",
+                "city" : "Lagos"
+            },
+            {
+                "name" : "America",
+                "id" : "US",
+                "city" : "Ohio"
+            },
+            {
+                "name" : "United Kingdom",
+                "id" : "UK",
+                "city" : "London"
+            }
+        
+    ]
+}

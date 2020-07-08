@@ -1,0 +1,22 @@
+{
+  "name": "country_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server,js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "SDG",
+    "TechBuzs",
+    "Test",
+    "In-dev"
+  ],
+  "author": "Oreofe Solarin",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
